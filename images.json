@@ -1,0 +1,27 @@
+[
+  {
+    "name": "image1",
+    "path": "images/image1.jpg",
+    "description": "A beautiful sunrise over the mountains."
+  },
+  {
+    "name": "image2",
+    "path": "images/image2.jpg",
+    "description": "A serene beach with clear blue waters."
+  },
+  {
+    "name": "image3",
+    "path": "images/image3.jpg",
+    "description": "A bustling cityscape at night."
+  },
+  {
+    "name": "image4",
+    "path": "images/image4.jpg",
+    "description": "A tranquil forest with sunlight filtering through the trees."
+  },
+  {
+    "name": "image5",
+    "path": "images/image5.jpg",
+    "description": "A picturesque village in the countryside."
+  }
+]
